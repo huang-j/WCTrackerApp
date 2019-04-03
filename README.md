@@ -1,2 +1,2 @@
 # WCTrackerApp
-Weight and Calorie tracking app.
+Weight and Calorie tracking app built in RShiny.
